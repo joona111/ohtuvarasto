@@ -1,3 +1,3 @@
 # ohtuvarasto
 
-https://github.com/<OWNER>/<REPOSITORY>/workflows/<WORKFLOW_NAME>/badge.svg
+![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
