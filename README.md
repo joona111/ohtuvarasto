@@ -1,4 +1,4 @@
 # ohtuvarasto
 
+![CI](https://github.com/mluukkai/ohtuvarasto/workflows/CI/badge.svg)
 
-[![CI](https://github.com/joona111/ohtuvarasto/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/joona111/ohtuvarasto/actions/workflows/main.yml)
