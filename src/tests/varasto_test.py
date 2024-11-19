@@ -36,7 +36,7 @@ class TestVarasto(unittest.TestCase):
         
     def test_lisays_lisaa_saldoa(self):
         self.varasto.lisaa_varastoon(8)
-        self.assertAlmostEqual(self.varasto.saldo, 82)
+        self.assertAlmostEqual(self.varasto.saldo, 8)
         kaikki_mita_voidaan = self.varasto.saldo
         self.assertAlmostEqual(self.varasto.ota_varastosta(22),kaikki_mita_voidaan  )
 
