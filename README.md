@@ -1,4 +1,4 @@
 # ohtuvarasto
 
-![CI](https://github.com/joona111/ohtuvarasto/workflows/CI/badge.svg)
+[CI](https://github.com/joona111/ohtuvarasto/workflows/CI/badge.svg)
 
